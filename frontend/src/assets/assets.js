@@ -73,6 +73,12 @@ import contact_img from './contact_img.png'
 import razorpay_logo from './razorpay_logo.png'
 import stripe_logo from './stripe_logo.png'
 import cross_icon from './cross_icon.png'
+import banner from './banner.png'
+import versace from './versace.png'
+import gucci from './gucci.png'
+import prada from './prada.png'
+import calvin from './calvin.png'
+import zara from './zara.png'
 
 export const assets = {
     logo,
@@ -92,7 +98,13 @@ export const assets = {
     contact_img,
     razorpay_logo,
     stripe_logo,
-    cross_icon
+    cross_icon,
+    banner,
+    versace,
+    gucci,
+    prada,
+    calvin,
+    zara
 }
 
 export const products = [
